@@ -23,9 +23,11 @@
                 <h3>Profissão: <?= $profissao ?></h3>
                 <h3>Salário: <?= $salario ?></h3>
                 <h3>Experiência: <?= $experiencia ?></h3>
+                <h2>Cadastro realizado com sucesso!</h2>
+                <a class="btn btn-info" href="http://127.0.0.1/agenda_02/fichario_agenda_2/cadastro.html" role="button">Retornar</a>
             </div>
         </div>
-    </div>    
+    </div>
 </body>
 </html>
 
